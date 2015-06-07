@@ -1,0 +1,14 @@
+package org.schwartz.springpractice;
+
+public class DrawingApplication {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Triangle triangle = new Triangle();
+		triangle.draw();
+
+	}
+
+}

@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/Users/betty80906/WorkspaceForSpringExamples/.metadata/.plugins/org.eclipse.jdt.core
